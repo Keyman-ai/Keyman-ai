@@ -13,7 +13,7 @@
 </div>
 
 
-I am a computer science undergrad from CSU, China. Currently I am studying in Embedded System. I am very
+I am a computer science graduate student from CSU, China. Currently I am studying in Embedded System. I am very
 passionate about Linux, camera and C language
 
 ## 🔗 Connect with me on :
